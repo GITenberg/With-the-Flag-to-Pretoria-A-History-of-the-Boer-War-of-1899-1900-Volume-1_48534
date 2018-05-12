@@ -1,10 +1,16 @@
 _repo: With-the-Flag-to-Pretoria-A-History-of-the-Boer-War-of-1899-1900-Volume-1_48534
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48534-h/images/cover.jpg
 creator:
   author:
     agent_name: Wilson, H.W.
     gutenberg_agent_id: '44841'
     url: http://www.gutenberg.org/2009/agents/44841
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48534#With-the-Flag-to-Pretoria-A-History-of-the-Boer-War-of-1899-1900-Volume-1
 gutenberg_issued: '2015-03-19'
 gutenberg_type: Text
 identifiers:
